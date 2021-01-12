@@ -35,6 +35,8 @@ npm install
 ## Testing: 
 npm test
 
+![](public/icons/budgetTracker.png)
+
 ## Questions? I can be contacted with the links below:   
 * email: infamous213@gmail.com
 * gitHub: [gitHub](https://github.com/JacobCounts)
