@@ -35,7 +35,7 @@ npm install
 ## Testing: 
 npm test
 
-! [] (icons/budgetTracker.png)
+! [](budgetTracker.png)
 
 ## Questions? I can be contacted with the links below:   
 * email: infamous213@gmail.com
