@@ -1,11 +1,14 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color:gainsboro;
+  background-image: linear-gradient(87deg, black, transparent);
 }
 
 button, input {
   font-size: 100%;
   font-family: Arial;
+ 
 }
 
 table {
@@ -34,7 +37,8 @@ tr:nth-child(even) {
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
+  text-decoration: none;
+  
 }
 
 .form {
