@@ -35,7 +35,7 @@ npm install
 ## Testing: 
 npm test
 
-! [] (budgetTracker/blob/main/public/icons/budgetTracker.png)
+! [] (icons/budgetTracker.png)
 
 ## Questions? I can be contacted with the links below:   
 * email: infamous213@gmail.com
