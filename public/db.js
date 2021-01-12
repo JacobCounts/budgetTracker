@@ -36,7 +36,7 @@ function checkDataBase() {
                 body: JSON.stringify(getAll.result),
                 headers: {
                     Accept: "application/json, text/plain, */*",
-                    "Content-Type": "application/jason",
+                    "Content-Type": "application/json",
                 }
             })
             .then((response) => response.JSON())
