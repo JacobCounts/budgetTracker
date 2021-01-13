@@ -36,7 +36,7 @@ npm install
 npm test
 
 ## Deployed Link
-(https://budget-tracker-jpc.herokuapp.com/)
+https://budget-tracker-jpc.herokuapp.com/
 
 ![](public/icons/budgetTracker.png)
 
